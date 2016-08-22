@@ -2,7 +2,8 @@
 
 #include<stdio.h>
 
-main()
+int main()
 {
     printf("Hello World\nThis is to test travis.\n");
+    return 0;
 }

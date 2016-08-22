@@ -1,0 +1,11 @@
+language: c
+
+compiler:
+  - gcc
+
+matrix:
+  - language: objective-c
+
+
+script:
+  - make
